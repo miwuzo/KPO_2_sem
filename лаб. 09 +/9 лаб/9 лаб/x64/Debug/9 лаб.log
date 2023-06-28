@@ -1,0 +1,38 @@
+﻿Сборка начата 18.05.2023 23:45:18.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\yana\Desktop\9 лаб\9 лаб\9 лаб.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "C:\Users\yana\Desktop\9 лаб\x64\Debug\".
+         Создание каталога "x64\Debug\9 лаб.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\9 лаб.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt SE_Lab09.cpp varparm.cpp
+         SE_Lab09.cpp
+     1>C:\Users\yana\Desktop\9 лаб\9 лаб\SE_Lab09.cpp(6,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>C:\Users\yana\Desktop\9 лаб\9 лаб\SE_Lab09.cpp(33,40): warning C4305: аргумент: усечение из "double" в "float"
+     1>C:\Users\yana\Desktop\9 лаб\9 лаб\SE_Lab09.cpp(34,47): warning C4305: аргумент: усечение из "double" в "float"
+     1>C:\Users\yana\Desktop\9 лаб\9 лаб\SE_Lab09.cpp(35,72): warning C4305: аргумент: усечение из "double" в "float"
+         varparm.cpp
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yana\Desktop\9 лаб\x64\Debug\9 лаб.exe" /INCREMENTAL /ILK:"x64\Debug\9 лаб.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yana\Desktop\9 лаб\x64\Debug\9 лаб.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yana\Desktop\9 лаб\x64\Debug\9 лаб.lib" /MACHINE:X64 x64\Debug\SE_Lab09.obj
+         x64\Debug\varparm.obj
+         9 лаб.vcxproj -> C:\Users\yana\Desktop\9 лаб\x64\Debug\9 лаб.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\9 лаб.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\9 лаб.tlog\9 лаб.lastbuildstate".
+     1>Сборка проекта "C:\Users\yana\Desktop\9 лаб\9 лаб\9 лаб.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\yana\Desktop\9 лаб\9 лаб\9 лаб.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\yana\Desktop\9 лаб\9 лаб\SE_Lab09.cpp(6,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         C:\Users\yana\Desktop\9 лаб\9 лаб\SE_Lab09.cpp(33,40): warning C4305: аргумент: усечение из "double" в "float"
+         C:\Users\yana\Desktop\9 лаб\9 лаб\SE_Lab09.cpp(34,47): warning C4305: аргумент: усечение из "double" в "float"
+         C:\Users\yana\Desktop\9 лаб\9 лаб\SE_Lab09.cpp(35,72): warning C4305: аргумент: усечение из "double" в "float"
+
+    Предупреждений: 4
+    Ошибок: 0
+
+Прошло времени 00:00:01.19
