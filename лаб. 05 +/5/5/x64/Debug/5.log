@@ -1,0 +1,6 @@
+﻿  Dictionary.cpp
+  lab5.cpp
+C:\Users\yana\Desktop\5\5\lab5.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+C:\Users\yana\Desktop\5\5\Dictionary.cpp(77): warning C4715: Dictionary::GetEntry: значение возвращается не при всех путях выполнения
+  5.vcxproj -> C:\Users\yana\Desktop\5\x64\Debug\5.exe
