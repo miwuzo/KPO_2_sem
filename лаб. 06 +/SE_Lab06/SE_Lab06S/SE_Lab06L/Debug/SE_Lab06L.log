@@ -1,0 +1,22 @@
+﻿Сборка начата 10.05.2023 05:54:18.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\yana\Desktop\SE_Lab06\SE_Lab06S\SE_Lab06L\SE_Lab06L.vcxproj" в узле 3 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\SE_Lab06L.tlog\SE_Lab06L.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Создание "Debug\SE_Lab06L.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"C:\Users\yana\Desktop\SE_Lab06\SE_Lab06S\Debug\SE_Lab06L.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Dictionary.cpp
+         Dictionary.cpp
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\Lib.exe /OUT:"C:\Users\yana\Desktop\SE_Lab06\SE_Lab06S\Debug\SE_Lab06L.lib" /NOLOGO /MACHINE:X86 Debug\Dictionary.obj
+         SE_Lab06L.vcxproj -> C:\Users\yana\Desktop\SE_Lab06\SE_Lab06S\Debug\SE_Lab06L.lib
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab06L.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab06L.tlog\SE_Lab06L.lastbuildstate".
+     1>Сборка проекта "C:\Users\yana\Desktop\SE_Lab06\SE_Lab06S\SE_Lab06L\SE_Lab06L.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.64
